@@ -68,6 +68,9 @@ pet-nutrition-assistant/
 ├─ .gitignore
 ├─ requirements.txt
 ```
+## 🌐 Live Demo
+Try the app here: [Pet Nutrition Assistant](https://pet-nutrition-assistant-m8mujfgnkk2crh46bftyyo.streamlit.app/)
+
 ## 👩‍💻 Developer
 
 Naushaba Azmi
